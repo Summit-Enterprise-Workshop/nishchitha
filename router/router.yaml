@@ -29,10 +29,10 @@ subscription:
          path: /
 
 ## Enter Workshop Module Configs Below
-preview_persisted_queries:
+persisted_queries:
   enabled: true
   safelist:
-    enabled: true
+    enabled: false
     require_id: false
 apq:
   enabled: false
